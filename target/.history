@@ -1,0 +1,8 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml
+console
+all {file:/home/hieuiph/Dev/Scala_Spark/example/}root/products {file:/home/hieuiph/Dev/Scala_Spark/example/}root/test:products
+quit()
+run
+console
+submit hieuiph@gmail.com fqWbHd25ls2toeba
+exit
